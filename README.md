@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @troders34
-- 👀 I’m interested in language programming(Python), operating system(Linux).
+- 👀 I’m interested in web programming, operating system(Linux).
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: GitHub @troders34 
