@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T22:53:03.661Z" agent="5.0 (Windows)" version="16.6.7" etag="864WOdfP50laVAwqsnj3" type="github"><diagram id="FyUC15ltl5w7iGFSESEg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-07T23:11:15.565Z" agent="5.0 (Windows)" etag="r2x5J6i0RGL4JMeBf3Ab" version="16.6.7" type="github">
+  <diagram id="FyUC15ltl5w7iGFSESEg" name="Page-1">
+    <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pDFiFOuWWyRkBDwkZ7m2-1" value="&lt;h1&gt;Algorithm of the Biggest Number&lt;br&gt;&lt;/h1&gt;&lt;p&gt;There are three variables; a, b, c; which one of them has the biggest number. But the value of each variable is unknow or in other meaning they have free-added number. In the end, it is also asked to serve the smallest number from the variables.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4-JTD 1A/04&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming Practicum&lt;/p&gt;&lt;p&gt;2022/03/08&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pDFiFOuWWyRkBDwkZ7m2-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Algorithm of the Biggest Number&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Determine the biggest number of the variables, input the value to each variable, also determine the smallest one.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pDFiFOuWWyRkBDwkZ7m2-3" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Input&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;A = the third three of odd numbers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;B = the third three of even numbers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;C = the third three of prime numbers&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pDFiFOuWWyRkBDwkZ7m2-4" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Input&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The third three of odd numbers&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 13, 15, 17&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The third three of even numbers&amp;nbsp;&amp;nbsp; : 14, 16, 18&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The third three of prime numbers : 17, 19, 23&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pDFiFOuWWyRkBDwkZ7m2-5" value="&lt;div&gt;&lt;b&gt;Output&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;The biggest number&amp;nbsp;&amp;nbsp; : C&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot;&gt;The smallest number : A&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="450" width="410" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
