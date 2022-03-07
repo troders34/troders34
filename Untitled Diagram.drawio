@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-03-07T07:51:09.236Z" agent="5.0 (Windows)" version="16.6.6" etag="t2ky4YlklmuXUO_Zdn5o" type="github"><diagram id="wQJVM3rqfzNABZJCaO8m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-07T09:31:41.686Z" agent="5.0 (Windows)" etag="RoSZzF0VHRMQCEnvt4Xz" version="16.6.6" type="github">
+  <diagram id="wQJVM3rqfzNABZJCaO8m" name="Page-1">
+    <mxGraphModel dx="723" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-1" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Algoritma Kelulusan Seorang Mahasiswa&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Menentukan kelulusan seorang mahasiswa dengan menghitung nilai rata-rata dua mata kuliah dengan syarat nilai lebih besar sama dengan 60.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="120" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Algorithm of a Student Graduates&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Deciding whether a student graduates or not by calculating the average score of two subjects with the limit of higher and equals to 60.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-4" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;The Algorithm&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. Input the score of the two subjects,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. Calculate the average score of the two subjects,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. Decide if the average score passes the requirement to gradute&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;a. If the average score is more than equals to 60, the student passes&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;b. If the average score is fewer than 60, the student cannot pass&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-5" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;Algoritma Kelulusan&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1. Masukkan nilai dari dua mata kuliah,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;2. Hitung nilai rata-rata dari dua mata kuliah tersebut,&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;3. Tentukan apabila nilai rata-rata tersebut memenuhi syarat kelulusan&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;a. Apabila nilai rata-rata tersebut lebih dari sama dengan 60, mahasiswa tersebut berhak lulus.&lt;/div&gt;&lt;div style=&quot;font-size: 12px&quot; align=&quot;left&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;b. Apabila nilai rata-rata tersebut kurang dari 60, mahasiswa tersebut belum berhak lulus.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="390" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-6" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="375" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-7" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="395" y="375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-6" target="omc3YTkO2FFa-pGAOh_J-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-10" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-11" value="input score of first and second subject " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="465" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-10" target="omc3YTkO2FFa-pGAOh_J-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-13" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="350" y="550" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-16" value="calculate the average score of the two subjects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="570" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="340" y="660" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-18" value="is the average score meet the graduate requirements of 60?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="365" y="725" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-17" target="omc3YTkO2FFa-pGAOh_J-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="sourcePoint" />
+            <mxPoint x="340" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-13" target="omc3YTkO2FFa-pGAOh_J-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="710" as="sourcePoint" />
+            <mxPoint x="400" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="353" y="860" width="145" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-23" value="output show if the student passes the requirement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-25" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="425" y="820" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-26" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="705" width="157.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-17" target="omc3YTkO2FFa-pGAOh_J-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-29" value="output show if the student does not pass the requirement" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="586.25" y="715" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-30" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="375" y="980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-22" target="omc3YTkO2FFa-pGAOh_J-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="910" as="sourcePoint" />
+            <mxPoint x="400" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-32" value="End" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="395" y="995" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="omc3YTkO2FFa-pGAOh_J-26" target="omc3YTkO2FFa-pGAOh_J-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="910" as="sourcePoint" />
+            <mxPoint x="490" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="651" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-34" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="530" y="710" width="35" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
