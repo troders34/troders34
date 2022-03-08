@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T01:32:10.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Jzb4CBUc7_RhNFDAFHZU" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T01:33:12.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="415DNZSAWJNBCbr1D5Wa" version="16.6.7" type="github">
   <diagram id="wQJVM3rqfzNABZJCaO8m" name="Page-1">
     <mxGraphModel dx="868" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="omc3YTkO2FFa-pGAOh_J-13" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="600" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="omc3YTkO2FFa-pGAOh_J-16" value="calculate the mean=(N1+N2)/2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-16" value="the mean=(N1+N2)/2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="360" y="620" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="omc3YTkO2FFa-pGAOh_J-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=12;" parent="1" vertex="1">
