@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T08:25:09.934Z" agent="5.0 (Windows)" etag="SqcNybAmXGwldS3yGW-a" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-08T10:27:31.718Z" agent="5.0 (Windows)" etag="vLGpTJjCgJyoPiYyNofu" version="16.6.7" type="github">
   <diagram id="UKuepsOys_dliQUGDk65" name="Page-1">
     <mxGraphModel dx="868" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="ra7nQEiWMHMqjAX58qIU-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="390" y="220" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ra7nQEiWMHMqjAX58qIU-5" value="Input Pieces" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ra7nQEiWMHMqjAX58qIU-5" value="Input Sheets" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="232.5" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ra7nQEiWMHMqjAX58qIU-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
@@ -209,10 +209,10 @@
             <mxPoint x="560" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2IQ8DxpUS3jnC8EUHAxQ-1" value="&lt;h1&gt;Algorithm of Total Cost of Copies&lt;br&gt;&lt;/h1&gt;&lt;p&gt;A shop is providing photocopying service with three cost categories based on the amount of the copies that will be copied. Also there is a discount only for those who have subscribed to the shop.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4JTD 1A/04 &lt;br&gt;&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming&lt;/p&gt;&lt;p&gt;2022/03/08&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2IQ8DxpUS3jnC8EUHAxQ-1" value="&lt;h1&gt;Algorithm of Total Cost of Copies&lt;br&gt;&lt;/h1&gt;&lt;p&gt;A shop is providing photocopying service with three cost categories based on the amount of the copies that will be copied. Also there is a discount only for those who have subscribed to the shop.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4JTD 1A/04 &lt;br&gt;&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming&lt;/p&gt;&lt;p&gt;2022/03/08&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="260" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="2IQ8DxpUS3jnC8EUHAxQ-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;The Algorithm&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. The consumer copies the sheets,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. The consumer pays the cost of the copies which is proper to the category,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. If the consumer has already been subscriber to the shop, consumer may get discount of the total cost&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2IQ8DxpUS3jnC8EUHAxQ-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;The Algorithm&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;1. The consumer copies the sheets,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2. The consumer pays the cost of the copies which is proper to the category,&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3. If the consumer has already been subscriber to the shop, consumer may get discount of the total cost&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="310" height="110" as="geometry" />
         </mxCell>
       </root>
