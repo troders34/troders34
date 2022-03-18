@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @troders34
 - 👀 I’m interested in web programming, operating system(Linux).
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on telecommunication and networking.
 - 📫 How to reach me: GitHub @troders34 
 
 <!---
