@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T04:02:03.368Z" agent="5.0 (Windows)" etag="MgTjADKV61o0p416jjFH" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T23:26:15.343Z" agent="5.0 (Windows)" etag="xY12lcEqvXy6T-wH_Vaq" version="17.1.3" type="github">
   <diagram id="y8m480E8AWF9mSjOlCLx" name="Page-1">
-    <mxGraphModel dx="496" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,8 +13,8 @@
         <mxCell id="EQCuyr0gUEPZYGNhDmS0-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=14;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="298.13" y="713.75" width="123.75" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="EQCuyr0gUEPZYGNhDmS0-1" value="&lt;h1&gt;Algorithm of Science or Social Major Arrangement&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The average score of the student&#39;s exact test and non-exact test gives contribution to the result of a student is being accepted to science or social major.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Penjurusan IPA atau IPS dengan acuan nilai rata-rata pada tes eksakta dan/atau tes non-eksakta. Setiap hasil dari nilai rata-rata cukup berpengaruh untuk menentukan pilihan penjurusan.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4-JTD 1A/04&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming Practicum&lt;/p&gt;&lt;p&gt;2022/03/07&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="360" height="260" as="geometry" />
+        <mxCell id="EQCuyr0gUEPZYGNhDmS0-1" value="&lt;h1&gt;Algorithm of Science or Social Major Arrangement&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The average score of the student&#39;s exact test and non-exact test gives contribution to the result of a student is being accepted to science or social major.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Penjurusan IPA atau IPS dengan acuan nilai rata-rata pada tes eksakta dan/atau tes non-eksakta. Setiap hasil dari nilai rata-rata cukup berpengaruh untuk menentukan pilihan penjurusan.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Created at 2022/03/07&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="360" height="240" as="geometry" />
         </mxCell>
         <mxCell id="EQCuyr0gUEPZYGNhDmS0-2" value="&lt;div align=&quot;left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Algorithm of Science or Social Major Arrangement&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;The three exact tests and two non-exact tests have important role to decide a student is suitable to get science or social major.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="360" height="70" as="geometry" />
