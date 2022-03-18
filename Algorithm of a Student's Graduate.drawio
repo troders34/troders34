@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T03:13:15.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="iiyQIQzBpgb3wBLTvNKE" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T23:25:30.892Z" agent="5.0 (Windows)" etag="7-bLnP3hGI5EPmh84yEA" version="17.1.3" type="github">
   <diagram id="wQJVM3rqfzNABZJCaO8m" name="Page-1">
-    <mxGraphModel dx="868" dy="388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,8 +109,8 @@
         <mxCell id="omc3YTkO2FFa-pGAOh_J-34" value="F" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="519.5" y="750" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="omc3YTkO2FFa-pGAOh_J-36" value="&lt;p style=&quot;line-height: 0.5&quot;&gt;&lt;/p&gt;&lt;h1&gt;Algorithm of a Student&#39;s Graduate&lt;br&gt;&lt;/h1&gt;&lt;p&gt;An algoritm process of a requirement of student&#39;s graduate. &lt;br&gt;&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4-JTD 1A/04&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming Practicum&lt;/p&gt;&lt;p&gt;2022/03/07&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="410" height="150" as="geometry" />
+        <mxCell id="omc3YTkO2FFa-pGAOh_J-36" value="&lt;p style=&quot;line-height: 0.5&quot;&gt;&lt;/p&gt;&lt;h1&gt;Algorithm of a Student&#39;s Graduate&lt;br&gt;&lt;/h1&gt;&lt;p&gt;An algoritm process of a requirement of student&#39;s graduate. &lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;2022/03/07&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="410" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
