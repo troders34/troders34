@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T03:58:10.138Z" agent="5.0 (Windows)" etag="O2F8CRnU6_ImFrqP0A0F" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T23:23:00.199Z" agent="5.0 (Windows)" etag="SMH_U4JGkZTYW8vWDaiY" version="17.1.3" type="github">
   <diagram id="Q0McfdbR_vOQXKcCNgqP" name="Page-1">
     <mxGraphModel dx="806" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -217,8 +217,8 @@
             <mxPoint x="390" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhGaNfptb9aEcFmK7woA-45" value="&lt;h1&gt;Algorithm of Parking Bill&lt;br&gt;&lt;/h1&gt;&lt;p&gt;A parking lot charges its customers by the time is spent. There are three main categories, the longer time spent the higher its bill.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4JTD 1A/04&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming&lt;/p&gt;&lt;p&gt;2022/03/11&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="320" height="180" as="geometry" />
+        <mxCell id="FhGaNfptb9aEcFmK7woA-45" value="&lt;h1&gt;Algorithm of Parking Bill&lt;br&gt;&lt;/h1&gt;&lt;p&gt;A parking lot charges its customers by the time is spent. There are three main categories, the longer time spent the higher its bill.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Created at 2022/03/11&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="320" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
