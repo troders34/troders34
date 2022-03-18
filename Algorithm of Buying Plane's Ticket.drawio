@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T23:21:52.555Z" agent="5.0 (Windows)" etag="_roYevSX7bdqku5MXAa6" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T23:22:29.062Z" agent="5.0 (Windows)" etag="yzw0VQvynfA_F92r7_LG" version="17.1.3" type="github">
   <diagram id="sBrC_O1w08wfmyPcie-q" name="Page-1">
     <mxGraphModel dx="806" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xe1-zFBnf7JqBdZLS7pF-1" value="&lt;h1&gt;Algorithm of Buying Plane&#39;s Ticket&lt;br&gt;&lt;/h1&gt;&lt;div&gt;The plane&#39;s ticket is sold for three categories: for adults, kids, and babies under 1 year old. Also the company monetize the baggage if above 20 kilos per adult. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Created at 2022/03/15&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="420" height="140" as="geometry" />
+          <mxGeometry x="40" y="40" width="420" height="130" as="geometry" />
         </mxCell>
         <mxCell id="xe1-zFBnf7JqBdZLS7pF-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="190" y="200" width="100" height="50" as="geometry" />
