@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-03-08T03:56:00.758Z" agent="5.0 (Windows)" etag="3GA23UQjebd6QVTo94wg" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T23:28:14.434Z" agent="5.0 (Windows)" etag="vw006vtDoKOFXhzUgsrF" version="17.1.3" type="github">
   <diagram id="hK6cHyncP6QBp0MwOiCH" name="Page-1">
-    <mxGraphModel dx="599" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fasCJvcmdjpcavR-v_NH-1" value="" style="html=1;dashed=0;whitespace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="fasCJvcmdjpcavR-v_NH-1" value="" style="html=1;dashed=0;whitespace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="190" y="362.5" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zbHn5pgKD2MKhqcWUCU9-28" value="" style="html=1;dashed=0;whitespace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -19,8 +19,8 @@
         <mxCell id="kf-vg7m3FzswI82a5gg6-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="190" y="280" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kf-vg7m3FzswI82a5gg6-2" value="&lt;h1&gt;Flowchart for Registration to Borrow Books in Library&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The procedure to new comers who want to borrow books in the library. They need to register new profile first then are allowed to borrow books in the library with terms.&lt;/p&gt;&lt;p&gt;By: Andika Fadila Pratama D4-JTD 1A/04 &lt;br&gt;&lt;/p&gt;&lt;p&gt;Polinema-Computer Programming Practicum&lt;/p&gt;&lt;p&gt;2022/03/02&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="320" height="210" as="geometry" />
+        <mxCell id="kf-vg7m3FzswI82a5gg6-2" value="&lt;h1&gt;Flowchart for Registration to Borrow Books in Library&lt;br&gt;&lt;/h1&gt;&lt;p&gt;The procedure to new comers who want to borrow books in the library. They need to register new profile first then are allowed to borrow books in the library with terms.&lt;/p&gt;&lt;br&gt;&lt;p&gt;Created at 2022/03/02&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="320" height="180" as="geometry" />
         </mxCell>
         <mxCell id="kf-vg7m3FzswI82a5gg6-3" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="210" y="295" width="60" height="30" as="geometry" />
@@ -153,13 +153,13 @@
         <mxCell id="zbHn5pgKD2MKhqcWUCU9-34" value="Happy reading" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="460" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fasCJvcmdjpcavR-v_NH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="fasCJvcmdjpcavR-v_NH-1" target="kf-vg7m3FzswI82a5gg6-12">
+        <mxCell id="fasCJvcmdjpcavR-v_NH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="fasCJvcmdjpcavR-v_NH-1" target="kf-vg7m3FzswI82a5gg6-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="430" as="sourcePoint" />
             <mxPoint x="340" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fasCJvcmdjpcavR-v_NH-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kf-vg7m3FzswI82a5gg6-1" target="fasCJvcmdjpcavR-v_NH-1">
+        <mxCell id="fasCJvcmdjpcavR-v_NH-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="kf-vg7m3FzswI82a5gg6-1" target="fasCJvcmdjpcavR-v_NH-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="430" as="sourcePoint" />
             <mxPoint x="340" y="380" as="targetPoint" />
