@@ -1,14 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T01:39:21.635Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="d3eDGMf_Leogob2DgTpz" version="20.8.21" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T05:40:25.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="au11tcwdfIpFQdPQ8R5Y" version="21.1.4" type="github">
   <diagram name="Page-1" id="5KWvBwa5amiT4onyiCu0">
-    <mxGraphModel dx="954" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="abgV-0lTNVKkwbb86ED5-1" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="abgV-0lTNVKkwbb86ED5-2" value="End" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
-          <mxGeometry x="120" y="681.99" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="abgV-0lTNVKkwbb86ED5-3" value="led, output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="321.99" width="120" height="45" as="geometry" />
@@ -24,6 +21,14 @@
         </mxCell>
         <mxCell id="abgV-0lTNVKkwbb86ED5-7" value="digitalWrite (led, LOW)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="551.99" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rKJzKceZZWmS14ikpJs_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="abgV-0lTNVKkwbb86ED5-8" target="abgV-0lTNVKkwbb86ED5-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="642" />
+              <mxPoint x="60" y="427" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="abgV-0lTNVKkwbb86ED5-8" value="delay 800" style="shape=delay;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="621.99" width="80" height="40" as="geometry" />
@@ -62,12 +67,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="261.99" as="sourcePoint" />
             <mxPoint x="210" y="291.99" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="abgV-0lTNVKkwbb86ED5-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;" parent="1" source="abgV-0lTNVKkwbb86ED5-8" target="abgV-0lTNVKkwbb86ED5-2" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="271.99" as="sourcePoint" />
-            <mxPoint x="220" y="301.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="abgV-0lTNVKkwbb86ED5-16" value="&lt;h1&gt;ESP32 and LED&lt;/h1&gt;&lt;p&gt;This flowchart illustrates the programming process of an ESP32 to do blinking with delay of an LED.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
