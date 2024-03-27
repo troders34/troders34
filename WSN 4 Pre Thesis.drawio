@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T01:49:47.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RiPbgc4YwpwE8fipcdmU" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T02:03:26.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TCH6YK94scRKDLOriIn3" version="24.2.0" type="github">
   <diagram name="Page-1" id="tgPLA6SxDmpjASrpm9ep">
     <mxGraphModel dx="1194" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="uWdfcczZp8XXyC7CWnQV-3" value="laptop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uWdfcczZp8XXyC7CWnQV-4" value="wireless router as Tx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uWdfcczZp8XXyC7CWnQV-4" value="router" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uWdfcczZp8XXyC7CWnQV-6" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,6 +72,12 @@
         </mxCell>
         <mxCell id="uWdfcczZp8XXyC7CWnQV-18" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ESP32 Flood Sensing System and Wireless Data Communication&lt;/h1&gt;&lt;p&gt;ESP32 is in use as the main microcontroller for the Wireless Sensor Network project and the water-level sensor or ultrasonic sensor as the physical input. There will be internet communication if possible to connect as many microcontrollers wirelessly as possible. And the siren is used as the physical output.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uWdfcczZp8XXyC7CWnQV-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;System Requirements&lt;/h1&gt;&lt;p&gt;it monitors the water level in real-time warning scenarios at certain locations which at the minimum one location.&lt;/p&gt;&lt;p&gt;it sends the data to the router to the internet as the server to store the data continuously.&lt;/p&gt;&lt;p&gt;it has little maintenance needed.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="760" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uWdfcczZp8XXyC7CWnQV-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;User Requirements&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the communities or the location should be covered by the internet connection to receive the data continuously.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;the communities have the siren on their side as the warning system.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;the communities only have little&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="600" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
