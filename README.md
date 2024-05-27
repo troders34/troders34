@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @troders34
-- 👀 I’m interested in web programming, operating system(Linux).
-- 🌱 I’m currently learning Python and digital telecommunication.
-- 💞️ I’m looking to collaborate on telecommunication and networking.
-- 📫 How to reach me: GitHub @troders34 
+- 👋 Hi, I’m @aaanndikaaa
+- 👀 Currently, I’m interested in artificial intelligence, telekcommunication, and operating systems such as Linux.
+- 🌱 I’m currently learning to master in Python and Back-End Engineering.
+- 💞️ I’m looking to collaborate on telecommunication engineering and artificial intelligence.
+- 📫 How to reach me: Find me on GitHub @aaanndikaaa
 
 <!---
 troders34/troders34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
